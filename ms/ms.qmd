@@ -1,0 +1,67 @@
+---
+title: "A dire future for European butterflies"
+format: html
+editor: visual
+---
+
+## Abstract
+
+Prediction is key for decision-making and conservation and, hence, is becoming the next frontier in ecology. However, prediction is often elusive. New computational tools are promising for predicting future population trends, allowing us to anticipate conservation actions for species and sites at risk. Here, we apply newly developed reservoir computing and early warning signal (EWS) methods to more than 30.000 butterfly time series (eBMS) across Europe. We show that reservoir computing is good at forecasting eBMS (reduced type M) and is a reliable tool to anticipate future trajectories. In addition, EWS complement this method by detecting fast tipping points before happening. Second, we show that X% of the butterfly species/populations show consistent declining predictions, with XX in danger of fast collapses. This pattern reflects (or not) IUCN status, and is (or is not) homogeneous across Europe. Under less optimistic scenarios (IPCC-X), the fraction of forcastted declining species increases (e.g.) two-fold. Overall, our predictive models leverage past trajectories along biotic? and abiotic co-variables to accuratelly forecast seasonal and decadal (or within and across seasons) changes for butterflies populations across EU.
+
+- Fig 1: Maps y workflow 
+
+```{r}
+#read data
+
+
+# Instalar los paquetes si es necesario (solo la primera vez)
+# install.packages(c("sf", "maps"))
+
+library(sf)
+library(maps)
+
+# 1. Eliminar filas sin coordenadas
+datos <- transect_coordinates[
+  is.finite(transect_coordinates$transect_lon) &
+    is.finite(transect_coordinates$transect_lat),
+]
+
+# 2. Definir las coordenadas originales (EPSG:3035)
+puntos <- st_as_sf(
+  datos,
+  coords = c("transect_lon", "transect_lat"),
+  crs = 3035
+)
+
+# 3. Convertir a longitud y latitud en grados
+xy <- st_coordinates(st_transform(puntos, crs = 4326))
+
+# 4. Dibujar el mapa de Europa
+map(
+  "world",
+  xlim = c(-25, 45),
+  ylim = c(27, 72),
+  fill = TRUE,
+  col = "grey95",
+  border = "grey60"
+)
+
+# 5. Añadir los puntos
+points(
+  xy[, 1],
+  xy[, 2],
+  pch = 16,
+  col = adjustcolor("steelblue", alpha.f = 0.6),
+  cex = 0.6
+)
+
+title("Localización de los transectos")
+```
+
+- Fig 2: General predictability + Horizon of predictability (fixed scenario to white noise)
+
+- Fig 3: Species (rank dot plot a lo Edwards et al. 2025 Gig 3, and hist Fig 2) and places/habitats (Map?). (fixing 5 years and white noise)
+
+- Fig 4: Scenarios (fixing horizon at 5?)
+
+- Fig (probably) Sup Mat: Variable importance + Seasonality results 
