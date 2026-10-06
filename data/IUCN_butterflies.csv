@@ -1,0 +1,502 @@
+Taxonomy,name,Family,IUCN Red List Category (Europe),IUCN Red List Criteria (Europe),IUCN Red List Category (EU27),IUCN Red List Criteria (EU27),Endemic to Europe,Endemic to EU27,Global Range
+Iphiclides podalirius,Scarce Swallowtail,Papilionidae,LC,,LC,,,,Palearctic
+Iphiclides feisthamelii,Iberian Scarce Swallowtail,Papilionidae,LC,,LC,,,,Western Palearctic
+Papilio alexanor,Southern Swallowtail,Papilionidae,NT, A2c,NT, A2c,,,Western Palearctic
+Papilio machaon,Swallowtail,Papilionidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Papilio hospiton,Corsican Swallowtail,Papilionidae,LC,,LC,,Yes,Yes,Europe
+Papilio demoleus,Lime Swallowtail,Papilionidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Parnassius mnemosyne,Clouded Apollo,Papilionidae,LC,,LC,,,,Western Palearctic
+Parnassius phoebus,Small Apollo,Papilionidae,LC,,LC,,,,Holarctic
+Parnassius apollo,Apollo,Papilionidae,LC,,LC,,,,Palearctic
+Archon apollinus,False Apollo,Papilionidae,VU, B2ab(v),VU, B2ab(v),,,Western Palearctic
+Zerynthia cerisy,Eastern Festoon,Papilionidae,LC,,LC,,,,Western Palearctic
+Zerynthia cretica,Cretan Festoon,Papilionidae,NT," B1b(iii,v)+2b(iii,v)",NT," B1b(iii,v)+2b(iii,v)",Yes,Yes,Europe
+Zerynthia rumina,Spanish Festoon,Papilionidae,LC,,LC,,,,Western Palearctic
+Zerynthia polyxena,Southern Festoon,Papilionidae,LC,,LC,,,,Western Palearctic
+Zerynthia cassandra,Italian Festoon,Papilionidae,LC,,LC,,Yes,Yes,Europe
+Heteropterus morpheus,Large Chequered Skipper,Hesperidae,LC,,LC,,,,Palearctic
+Carterocephalus silvicola,Northern Chequered Skipper,Hesperidae,NT, A2b ,VU, A2b,,,Palearctic
+Carterocephalus palaemon,Chequered Skipper,Hesperidae,NT, A2b,VU, A2b,,,Holarctic
+Pelopidas thrax,Millet Skipper,Hesperidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Borbo borbonica,Zeller's Skipper,Hesperidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Gegenes pumilio,Pygmy Skipper,Hesperidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Gegenes nostrodamus,Mediterranean Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Ochlodes sylvanus,Large Skipper,Hesperidae,LC,,LC,,,,Palearctic
+Hesperia comma,Silver-spotted Skipper,Hesperidae,LC,,LC,,,,Holarctic
+Thymelicus christi,Canarian Skipper,Hesperidae,LC,,LC,,Yes,Yes,Europe
+Thymelicus acteon,Lulworth Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Thymelicus hyrax,Levantine Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Thymelicus sylvestris,Small Skipper,Hesperidae,VU, A2b,VU, A2b,,,Western Palearctic
+Thymelicus lineola,Essex Skipper,Hesperidae,VU, A2b,EN, A2b,,,Range extends outside the Palaearctic and Holarctic
+Thymelicus hamza,Moroccan Small Skipper,Hesperidae,NA,,NA,,,,Western Palearctic
+Spialia phlomidis,Persian Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Spialia sertorius,Red-underwing Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Spialia therapne,Corsican Red-underwing Skipper,Hesperidae,LC,,LC,,Yes,Yes,Europe
+Spialia rosae,Spanish Red-underwing Skipper,Hesperidae,LC,,LC,,Yes,Yes,Europe
+Spialia orbifer,Hungarian Skipper,Hesperidae,NT, A2c,NT, A2c,,,Palearctic
+Spialia ali, ,Hesperidae,NA,,NA,,,,Western Palearctic
+Carcharodus tripolinus,False Mallow Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Carcharodus alceae,Mallow Skipper,Hesperidae,LC,,LC,,,,Palearctic
+Muschampia cribrellum,Spinose Skipper,Hesperidae,VU," B2ab(iii,v)",VU," B2ab(iii,v)",,,Palearctic
+Muschampia tessellum,Tessellated Skipper,Hesperidae,LC,,EN," B2ab(iii,v)",,,Palearctic
+Muschampia proto,Sage Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Carcharodus lavatherae,Marbled Skipper,Hesperidae,NT, A2b,NT, A2b,,,Western Palearctic
+Carcharodus orientalis,Oriental Marbled Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Carcharodus floccifera,Tufted Marbled Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Carcharodus stauderi,Eastern Marbled Skipper,Hesperidae,NA,,NA,,,,Western Palearctic
+Carcharodus baeticus,Southern Marbled Skipper,Hesperidae,VU, A2c,VU, A2c,Yes,,Europe
+Erynnis tages,Dingy Skipper,Hesperidae,LC,,NT, A2b,,,Palearctic
+Erynnis marloyi,Inky Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Pyrgus malvoides,Southern Grizzled Skipper,Hesperidae,NT, A2b,NT, A2b,Yes,,Europe
+Pyrgus malvae,Grizzled Skipper,Hesperidae,NT, A2b,NT, A2b,,,Palearctic
+Pyrgus carthami,Safflower Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Pyrgus sidae,Yellow-banded Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Pyrgus centaureae,Northern Grizzled Skipper,Hesperidae,VU," B2ab(iii,v)",VU," B2ab(iii,v)",,,Holarctic
+Pyrgus cacaliae,Dusky Grizzled Skipper,Hesperidae,LC,,LC,,Yes,,Europe
+Pyrgus andromedae,Alpine Grizzled Skipper,Hesperidae,LC,,LC,,Yes,,Europe
+Pyrgus serratulae,Olive Skipper,Hesperidae,LC,,LC,,,,Palearctic
+Pyrgus armoricanus,Oberthür's Grizzled Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Pyrgus alveus,Large Grizzled Skipper,Hesperidae,LC,,LC,,,,Palearctic
+Pyrgus warrenensis,Warren's Skipper,Hesperidae,LC,,LC,,Yes,,Europe
+Pyrgus foulquieri,Foulquier's Grizzled Skipper,Hesperidae,LC,,LC,,Yes,Yes,Europe
+Pyrgus onopordi,Rosy Grizzled Skipper,Hesperidae,NT, A2c,NT, A2c,,,Western Palearctic
+Pyrgus carlinae,Carline Skipper,Hesperidae,LC,,LC,,Yes,,Europe
+Pyrgus cirsii,Cinquefoil Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Pyrgus cinarae,Sandy Grizzled Skipper,Hesperidae,LC,,LC,,,,Western Palearctic
+Leptidea duponcheli,Eastern Wood White,Pieridae,LC , ,LC , ,,,Western Palearctic
+Leptidea morsei,Fenton's Wood White,Pieridae,VU, B2ab(iii),VU, B2ab(iii),,,Palearctic
+Leptidea juvernica,Cryptic Wood White,Pieridae,LC , ,LC , ,,,Palearctic
+Leptidea sinapis,Wood White,Pieridae,LC,,LC,,,,Palearctic
+Leptidea reali,Réal's Wood White,Pieridae,LC , ,LC , ,Yes,,Europe
+Gonepteryx rhamni,Brimstone,Pieridae,LC,,LC,,,,Western Palearctic
+Gonepteryx cleobule,Canary Brimstone,Pieridae,EN, B2ab(iii),EN, B2ab(iii),Yes,Yes,Europe
+Gonepteryx cleopatra,Cleopatra,Pieridae,LC,,LC,,,,Western Palearctic
+Gonepteryx maderensis,Madeiran Brimstone,Pieridae,EN," B1ab(iii,iv,v)+B2ab(iii,iv,v)",EN," B1ab(iii,iv,v)+B2ab(iii,iv,v)",Yes,Yes,Europe
+Gonepteryx farinosa,Powdered Brimstone,Pieridae,LC,,LC,,,,Western Palearctic
+Catopsilia florella,African Migrant,Pieridae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Colias hyale,Pale Clouded Yellow,Pieridae,LC,,LC,,,,Palearctic
+Colias alfacariensis,Berger's Clouded Yellow,Pieridae,LC,,LC,,,,Western Palearctic
+Colias phicomone,Mountain Clouded Yellow,Pieridae,LC,,LC,,Yes,,Europe
+Colias aurorina,Greek Clouded Yellow,Pieridae,LC , ,LC , ,,,Western Palearctic
+Colias chrysotheme,Lesser Clouded Yellow,Pieridae,EN, B2ab(ii),EN, B2ab(ii),,,Palearctic
+Colias erate,Eastern Pale Clouded Yellow,Pieridae,LC,,LC,,,,Western Palearctic
+Colias crocea,Clouded Yellow,Pieridae,LC,,LC,,,,Western Palearctic
+Colias myrmidone,Danube Clouded Yellow,Pieridae,VU," B2ab(i,ii,iii,iv,v) ",EN," B2ab(i,ii,iii,iv,v)",,,Western Palearctic
+Colias caucasica,Balkan Clouded Yellow,Pieridae,VU," B2ab(iii,v)c(iv)",VU," B2ab(iii,v)c(iv) ",,,Western Palearctic
+Colias palaeno,Moorland Clouded Yellow,Pieridae,LC,,NT, A2c,,,Holarctic
+Colias tyche,Pale Arctic Clouded Yellow,Pieridae,VU, A2c; B2ab(iii),EN, B2ab(iii),,,Holarctic
+Colias hecla,Northern Clouded Yellow,Pieridae,VU, A2c; B2ab(iii),EN,B2ab(iii),,,Holarctic
+Colotis evagore,Desert Orange-tip,Pieridae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Aporia crataegi,Black-veined White,Pieridae,LC,,LC,,,,Palearctic
+Pontia chloridice,Small Bath White,Pieridae,EN, B2ab(v),EN, B2ab(v),,,Palearctic
+Pontia callidice,Peak White,Pieridae,LC,,LC,,,,Palearctic
+Pontia edusa,Eastern Bath White,Pieridae,LC,,LC,,,,Palearctic
+Pontia daplidice,Bath White,Pieridae,LC,,LC,,,,Western Palearctic
+Pieris krueperi,Krueper's Small White,Pieridae,NT, B2a ,NT, B2a ,,,Western Palearctic
+Pieris brassicae,Large White,Pieridae,LC,,LC,,,,Palearctic
+Pieris wollastoni,Madeiran Large White,Pieridae,EX,,EX,,Yes,Yes,Europe
+Pieris cheiranthi,Canary Islands Large White,Pieridae,EN," B2b(ii,iii)c(iv)",EN," B2b(ii,iii)c(iv)",Yes,Yes,Europe
+Pieris rapae,Small White,Pieridae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Pieris mannii,Southern Small White,Pieridae,LC,,LC,,,,Western Palearctic
+Pieris ergane,Mountain Small White,Pieridae,LC,,LC,,,,Western Palearctic
+Pieris bryoniae,Mountain Green-veined White,Pieridae,LC,,LC,,,,Western Palearctic
+Pieris napi,Green-veined White,Pieridae,LC,,LC,,,,Palearctic
+Pieris balcana,Balkan Green-veined White,Pieridae,LC,,LC,,Yes,,Europe
+Euchloe tagis,Portuguese Dappled White,Pieridae,LC,,LC,,,,Western Palearctic
+Euchloe eversi,Tenerife Green-striped White,Pieridae,NT, B1b(iii)+B2b(iii),NT, B1b(iii)+B2b(iii),Yes,Yes,Europe
+Euchloe grancanariensis,Gran Canarian Green-striped White,Pieridae,NT, B1b(iii)+B2b(iii),NT, B1b(iii)+B2b(iii),Yes,Yes,Europe
+Euchloe hesperidum,Fuerteventura Green-striped White,Pieridae,LC,,LC,,Yes,Yes,Europe
+Euchloe belemia,Green-striped White,Pieridae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Euchloe insularis,Corsican Dappled White,Pieridae,LC,,LC,,Yes,Yes,Europe
+Euchloe crameri,Western Dappled White,Pieridae,LC,,LC,,,,Western Palearctic
+Euchloe simplonia,Mountain Dappled White,Pieridae,LC,,LC,,Yes,,Europe
+Euchloe ausonia,Eastern Dappled White,Pieridae,LC,,LC,,,,Palearctic
+Euchloe charlonia,Greenish Black-tip,Pieridae,LC,,LC,,,,Western Palearctic
+Euchloe penia,Eastern Greenish Black-tip,Pieridae,NT, B2a,NT, B2a,,,Western Palearctic
+Euchloe bazae,Spanish Greenish Black-tip,Pieridae,EN," B2ab(i,ii,iiii,iv)",EN," B2ab(i,ii,iiii,iv)",Yes,Yes,Europe
+Zegris pyrothoe,Eversmann's Sooty Orange-tip,Pieridae,NA,,,,,,Western Palearctic
+Zegris eupheme,Sooty Orange-tip,Pieridae,NT, B2b(iv),NT, B2b(iv),,,Western Palearctic
+Anthocharis euphenoides,Provence Orange-tip,Pieridae,LC,,LC,,Yes,,Europe
+Anthocharis cardamines,Orange-tip,Pieridae,LC,,LC,,,,Palearctic
+Anthocharis gruneri,Grüner's Orange-tip,Pieridae,LC,,LC,,,,Western Palearctic
+Anthocharis damone,Eastern Orange-tip,Pieridae,EN, B2ab(v),EN, B2ab(v),,,Western Palearctic
+Anthocharis belia,Moroccan Orange-tip,Pieridae,NA,,NA,,,,Western Palearctic
+Hamearis lucina,Duke of Burgundy,Riodinidae,LC,,LC,,,,Western Palearctic
+Lycaena dimorpha,NA,Lycaenidae,NA,,,,,,Western Palearctic
+Lycaena helle,Violet Copper,Lycaenidae,NT, A2c,NT, A2c,,,Palearctic
+Lycaena alciphron,Purple-shot Copper,Lycaenidae,LC,,LC,,,,Palearctic
+Lycaena thetis,Fiery Copper,Lycaenidae,NA,,NA,,,,Western Palearctic
+Lycaena thersamon,Lesser Fiery Copper,Lycaenidae,LC,,LC,,,,Western Palearctic
+Lycaena dispar,Large Copper,Lycaenidae,LC , ,LC , ,,,Palearctic
+Lycaena hippothoe,Purple-edged Copper,Lycaenidae,LC,,LC,,,,Palearctic
+Lycaena candens,Balkan Copper,Lycaenidae,LC,,LC,,,,Western Palearctic
+Lycaena ottomana,Grecian Copper,Lycaenidae,LC,,LC,,,,Western Palearctic
+Lycaena bleusei,Iberian Sooty Copper,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Lycaena phlaeas,Small Copper,Lycaenidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Lycaena virgaureae,Scarce Copper,Lycaenidae,LC , ,NT, A2b,,,Palearctic
+Lycaena tityrus,Sooty Copper,Lycaenidae,LC,,LC,,,,Western Palearctic
+Cigaritis acamas,Levantine Leopard,Lycaenidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Deudorix livia,Pomegranate Hairstreak,Lycaenidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Thecla betulae,Brown Hairstreak,Lycaenidae,LC,,LC,,,,Palearctic
+Favonius quercus,Purple Hairstreak,Lycaenidae,LC,,LC,,,,Western Palearctic
+Laeosopis roboris,Spanish Purple Hairstreak,Lycaenidae,LC,,LC,,Yes,,Europe
+Tomares ballus,Provence Hairstreak,Lycaenidae,LC,,LC,,,,Western Palearctic
+Tomares nogelii,Nogel's Hairstreak,Lycaenidae,NT, B2a,VU, D2,,,Western Palearctic
+Tomares callimachus,Caucasian Vernal Copper,Lycaenidae,LC,,,,,,Western Palearctic
+Tomares mauretanicus,Moroccan Hairstreak,Lycaenidae,NA,,NA,,,,Western Palearctic
+Callophrys avis,Chapman's Green Hairstreak,Lycaenidae,NT, A2b,NT, A2b,,,Western Palearctic
+Callophrys suaveola,Alpine Green Hairstreak,Lycaenidae,NA,,,,,,Palearctic
+Callophrys rubi,Green Hairstreak,Lycaenidae,LC,,LC,,,,Palearctic
+Callophrys chalybeitincta ,Sovinsky's Green Hairstreak,Lycaenidae,NA,,,,,,Western Palearctic
+Neolycaena rhymnus, ,Lycaenidae,LC,,,,,,Western Palearctic
+Satyrium pruni,Black Hairstreak,Lycaenidae,VU, A2c,VU, A2c,,,Palearctic
+Satyrium ilicis,Ilex Hairstreak,Lycaenidae,LC,,LC,,,,Western Palearctic
+Satyrium esculi,False Ilex Hairstreak,Lycaenidae,LC,,LC,,,,Western Palearctic
+Satyrium ledereri,Orange-banded Hairstreak,Lycaenidae,NA,,NA,,,,Western Palearctic
+Satyrium w-album,White-letter Hairstreak,Lycaenidae,LC,,LC,,,,Palearctic
+Satyrium spini,Blue-spot Hairstreak,Lycaenidae,VU, A2b,VU, A2b,,,Western Palearctic
+Satyrium acaciae,Sloe Hairstreak,Lycaenidae,LC,,LC,,,,Western Palearctic
+Leptotes pirithous,Lang's Short-tailed Blue,Lycaenidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Cyclyrius webbianus,Canary Blue,Lycaenidae,NT, B2c(iv),NT, B2c(iv),Yes,Yes,Europe
+Azanus ubaldus,Desert Babul Blue,Lycaenidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Azanus jesous,African Babul Blue,Lycaenidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Lampides boeticus,Long-tailed Blue,Lycaenidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Cacyreus marshalli,Geranium Bronze,Lycaenidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Celastrina argiolus,Holly Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Tarucus theophrastus,Common Tiger Blue,Lycaenidae,NT, B2b(iii),NT, B2b(iii),,,Range extends outside the Palaearctic and Holarctic
+Tarucus balkanicus,Little Tiger Blue,Lycaenidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Phengaris alcon,Alcon Blue,Lycaenidae,NT, A2c,NT, A2c,,,Palearctic
+Phengaris arion,Large Blue,Lycaenidae,NT, A2c,NT,A2c,,,Palearctic
+Phengaris teleius,Scarce Large Blue,Lycaenidae,VU, A2c,VU, A2c,,,Palearctic
+Phengaris nausithous,Dusky Large Blue,Lycaenidae,NT, A2b,NT, A2b,,,Western Palearctic
+Turanana taygetica,Odd-spot Blue,Lycaenidae,EN, B1ab(v)+B2ab(v),EN, B1ab(v)+B2ab(v),,,Western Palearctic
+Pseudophilotes bavius,Bavius Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Pseudophilotes barbagiae,Sardinian Blue,Lycaenidae,EN, B2ab(iii),EN, B2ab(iii),Yes,Yes,Europe
+Pseudophilotes abencerragus,False Baton Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Pseudophilotes panoptes,Panoptes Blue,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Pseudophilotes vicrama,Eastern Baton Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Pseudophilotes baton,Baton Blue,Lycaenidae,LC,,LC,,Yes,,Europe
+Scolitantides orion,Chequered Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Praephilotes anthracias , ,Lycaenidae,NA,,,,,,Palearctic
+Iolana iolas,Iolas Blue,Lycaenidae,NT, A2c,NT, A2c,,,Western Palearctic
+Iolana debilitata, ,Lycaenidae,LC,,LC,,,,Western Palearctic
+Glaucopsyche melanops,Black-eyed Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Glaucopsyche paphos,Paphos Blue,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Glaucopsyche alexis,Green-underside Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Zizeeria knysna,African Grass Blue,Lycaenidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Zizeeria karsandra,Dark Grass Blue,Lycaenidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Tongeia fischeri ,Fischer's Blue,Lycaenidae,NA,,,,,,Palearctic
+Cupido argiades,Short-tailed Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Cupido decoloratus,Eastern Short-tailed Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Cupido alcetas,Provençal Short-tailed Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Cupido osiris,Osiris Blue,Lycaenidae,LC,,NT, A2b,,,Palearctic
+Cupido minimus,Small Blue,Lycaenidae,NT, A2b,NT, A2b,,,Palearctic
+Cupido lorquinii,Lorquin's Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Luthrodes galba ,Small Desert Blue,Lycaenidae,NA,,NA,,,,Western Palearctic
+Freyeria trochylus,Grass Jewel,Lycaenidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Plebejus argus,Silver-studded Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Plebejus idas,Idas Blue,Lycaenidae,LC,,LC,,,,Holarctic
+Plebejus bellieri,Bellier's Blue,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Plebejus argyrognomon,Reverdin's Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Agriades orbitulus,Alpine Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Agriades optilete,Cranberry Blue,Lycaenidae,VU, A2c ,VU, A2c ,,,Holarctic
+Agriades pyrenaicus,Gavarnie Blue,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Agriades dardanus,Bosnian Blue,Lycaenidae,EN, B2ab(v)c(iv),CR, B1ab(v)c(iv),,,Western Palearctic
+Agriades zullichi,Zullich´s Blue,Lycaenidae,EN, B1ab(v)c(iv)+2ab(v)c(iv),EN, B1ab(v)c(iv)+2ab(v)c(iv),Yes,Yes,Europe
+Agriades glandon,Glandon Blue,Lycaenidae,LC,,LC,,Yes,,Europe
+Agriades aquilo,Arctic Blue,Lycaenidae,EN," B2ab(iii,v)c(iv)",EN," B2ab(iii,v)c(iv)",,,Holarctic
+Plebejidea loewii,Loew's Blue,Lycaenidae,NA,,NA,,,,Western Palearctic
+Eumedonia eumedon,Geranium Argus,Lycaenidae,LC,,VU, A2b,,,Palearctic
+Kretania psylorita,Cretan Argus,Lycaenidae,NT, B1a+B2a,NT, B1a+B2a,Yes,Yes,Europe
+Kretania hesperica,Spanish Zephyr Blue,Lycaenidae,NT, B2a,NT, B2a,Yes,Yes,Europe
+Kretania eurypilus,Eastern Brown Argus,Lycaenidae,NA,,NA,,,,Western Palearctic
+Kretania trappi,Alpine Zephyr Blue,Lycaenidae,EN," B1ab(iii,iv,v)+B2ab(iii,iv,v) ",EN," B1ab(iii,iv,v)+B2ab(iii,iv,v)",Yes,,Europe
+Kretania sephirus,Balkan Zephyr Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Kretania pylaon,Zephyr Blue,Lycaenidae,NA,,,,,,Western Palearctic
+Cyaniris semiargus,Mazarine Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Glabroculus cyane , ,Lycaenidae,NA,,,,,,Palearctic
+Aricia morronensis,Spanish Argus,Lycaenidae,LC,,LC,,Yes,,Europe
+Aricia anteros,Blue Argus,Lycaenidae,LC,,LC,,,,Western Palearctic
+Aricia cramera,Southern Brown Argus,Lycaenidae,LC,,LC,,,,Western Palearctic
+Aricia nicias,Silvery Argus,Lycaenidae,LC,,LC,,,,Western Palearctic
+Aricia artaxerxes,Northern Brown Argus,Lycaenidae,LC,,LC,,,,Western Palearctic
+Aricia montensis,Southern Mountain Argus,Lycaenidae,LC,,LC,,,,Western Palearctic
+Aricia agestis,Brown Argus,Lycaenidae,LC,,LC,,,,Palearctic
+Neolysandra coelestina,Pontic Blue,Lycaenidae,NT, B2a,EN, B1ab(v)+B2ab(v),,,Western Palearctic
+Lysandra hispana,Provence Chalkhill Blue,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Lysandra bellargus,Adonis Blue,Lycaenidae,NT, A2b,NT, A2b,,,Western Palearctic
+Lysandra coridon,Chalkhill Blue,Lycaenidae,LC,,LC,,Yes,,Europe
+Lysandra caelestissima,Azure Chalkhill Blue,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Lysandra albicans,Spanish Chalkhill Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Polyommatus escheri,Escher's Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Polyommatus thersites,Chapman's Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Polyommatus daphnis,Meleager's Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Polyommatus amandus,Amanda's Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Polyommatus golgus,Nevada Blue,Lycaenidae,EN," B1ab(iii,v)+B2ab(iii,v)",EN," B1ab(iii,v)+B2ab(iii,v)",Yes,Yes,Europe
+Polyommatus nivescens,Mother-of-Pearl Blue,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Polyommatus dorylas,Turquoise Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Polyommatus celina,Southern Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Polyommatus icarus,Common Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Polyommatus eros,Eros Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Polyommatus damon,Damon Blue,Lycaenidae,LC,,LC,,,,Palearctic
+Polyommatus damone,Crimean Blue,Lycaenidae,LC,,,,,,Palearctic
+Polyommatus damocles, ,Lycaenidae,NA,,,,,,Western Palearctic
+Polyommatus admetus,Anomalous Blue,Lycaenidae,LC,,LC,,,,Western Palearctic
+Polyommatus ripartii,Ripart's Anomalous Blue,Lycaenidae,NT, A2c,NT, A2c,,,Palearctic
+Polyommatus nephohiptamenos,Higgins' Anomalous Blue,Lycaenidae,EN," B1ab(iii,v)+B2ab(iii,v)",EN," B1ab(iii,v)+B2ab(iii,v)",Yes,Yes,Europe
+Polyommatus iphigenia,Chelmos Blue,Lycaenidae,NA,,NA,,,,Western Palearctic
+Polyommatus violetae,Andalusian Anomalous Blue,Lycaenidae,EN, B2ab(iv),EN, B2ab(iv),Yes,Yes,Europe
+Polyommatus fulgens,Catalonian Furry Blue,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Polyommatus fabressei,Oberthür’s Anomalous Blue,Lycaenidae,NT, B2a,NT, B2a,Yes,Yes,Europe
+Polyommatus dolus,Furry Blue,Lycaenidae,NT," B2b(iv,v)",NT," B2b(iv,v)",Yes,Yes,Europe
+Polyommatus humedasae,Piedmont Anomalous Blue,Lycaenidae,CR," B1ab(iii,iv)",CR," B1ab(iii,iv)",Yes,Yes,Europe
+Polyommatus timfristos, ,Lycaenidae,NT, B2a,NT, B2a,Yes,Yes,Europe
+Polyommatus orphicus,Kolev's Anomalous Blue,Lycaenidae,EN, B1ab(iii)+B2ab(iii),EN, B1ab(iii)+B2ab(iii),Yes,,Europe
+Polyommatus aroaniensis,Grecian Anomalous Blue,Lycaenidae,LC,,LC,,Yes,Yes,Europe
+Neptis sappho,Common Glider,Nymphalidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Neptis rivularis,Hungarian Glider,Nymphalidae,LC,,LC,,,,Palearctic
+Limenitis reducta,Southern White Admiral,Nymphalidae,LC,,LC,,,,Western Palearctic
+Limenitis populi,Poplar Admiral,Nymphalidae,LC,,NT, A2c,,,Palearctic
+Limenitis camilla,White Admiral,Nymphalidae,LC,,LC,,,,Palearctic
+Issoria lathonia,Queen of Spain Fritillary,Nymphalidae,LC,,LC,,,,Western Palearctic
+Issoria eugenia, ,Nymphalidae,NA,,,,,,Palearctic
+Brenthis hecate,Twin-spot Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Brenthis ino,Lesser Marbled Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Brenthis daphne,Marbled Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Argynnis paphia,Silver-washed Fritillary,Nymphalidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Argynnis pandora,Cardinal,Nymphalidae,LC,,LC,,,,Palearctic
+Argynnis laodice,Pallas' Fritillary,Nymphalidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Speyeria aglaja,Dark Green Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Fabriciana elisa,Corsican Fritillary,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Fabriciana niobe,Niobe Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Fabriciana adippe,High Brown Fritillary,Nymphalidae,LC,,LC,,,,Western Palearctic
+Boloria eunomia,Bog Fritillary,Nymphalidae,LC,,LC,,,,Holarctic
+Boloria graeca,Balkan Fritillary,Nymphalidae,LC,,LC,,,,Western Palearctic
+Boloria pales,Shepherd's Fritillary,Nymphalidae,LC,,LC,,Yes,,Europe
+Boloria alaskensis,Alaskan Fritillary,Nymphalidae,NA,,,,,,Holarctic
+Boloria napaea,Mountain Fritillary,Nymphalidae,LC,,LC,,,,Holarctic
+Boloria aquilonaris,Cranberry Fritillary,Nymphalidae,LC,,NT, A2c,,,Palearctic
+Boloria tritonia, ,Nymphalidae,NA,,,,,,Palearctic
+Boloria polaris,Polar Fritillary,Nymphalidae,EN," B2ab(i,ii,iii,iv)c(iii,iv)",EN," B2ab(i,ii,iii,iv)c(iii,iv)",,,Holarctic
+Boloria thore,Thor's Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Boloria selene,Small Pearl-bordered Fritillary,Nymphalidae,LC,,LC,,,,Holarctic
+Boloria euphrosyne,Pearl-bordered Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Boloria dia,Weaver's Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Boloria improba,Dusky-winged Fritillary,Nymphalidae,EN," B2ab(iii,v)c(iv)",EN," B2ab(iii,v)c(iv)",,,Holarctic
+Boloria frigga,Frigga's Fritillary,Nymphalidae,VU," A2c; B2ab(ii,iii)",VU," A2c; B2ab(ii,iii)",,,Holarctic
+Boloria freija,Frejya's Fritillary,Nymphalidae,EN, A2c,EN, A2c,,,Holarctic
+Boloria selenis, ,Nymphalidae,NA,,,,,,Palearctic
+Boloria oscarus, ,Nymphalidae,NA,,,,,,Palearctic
+Boloria titania,Titania's Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Boloria chariclea,Arctic Fritillary,Nymphalidae,EN," A2c; B2ab(ii,iii,v)c(iv)",EN," A2c; B2ab(ii,iii,v)c(iv)",,,Holarctic
+Boloria angarensis, ,Nymphalidae,NA,,,,,,Palearctic
+Apatura iris,Purple Emperor,Nymphalidae,LC,,LC,,,,Palearctic
+Apatura metis,Freyer's Purple Emperor,Nymphalidae,LC,,LC,,,,Palearctic
+Apatura ilia,Lesser Purple Emperor,Nymphalidae,LC,,LC,,,,Palearctic
+Araschnia levana,Map,Nymphalidae,LC,,LC,,,,Palearctic
+Vanessa virginiensis,American Painted Lady,Nymphalidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Vanessa cardui,Painted Lady,Nymphalidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Vanessa vulcania,Canary Red Admiral,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Vanessa atalanta,Red Admiral,Nymphalidae,LC,,LC,,,,Holarctic
+Aglais io,Peacock,Nymphalidae,LC,,LC,,,,Palearctic
+Aglais urticae,Small Tortoiseshell,Nymphalidae,NT, A2b,NT, A2b,,,Palearctic
+Aglais ichnusa,Corsican Small Tortoiseshell,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Polygonia egea,Southern Comma,Nymphalidae,LC,,LC,,,,Western Palearctic
+Polygonia c-album,Comma,Nymphalidae,LC,,LC,,,,Palearctic
+Nymphalis vaualbum,False Comma,Nymphalidae,LC,,LC,,,,Holarctic
+Nymphalis polychloros,Large Tortoiseshell,Nymphalidae,LC,,LC,,,,Western Palearctic
+Nymphalis xanthomelas,Yellow-legged Tortoiseshell,Nymphalidae,LC,,LC,,,,Palearctic
+Nymphalis antiopa,Camberwell Beauty,Nymphalidae,LC , ,NT, A2b,,,Holarctic
+Hypolimnas misippus,Danaid Eggfly,Nymphalidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Euphydryas desfontainii,Spanish Fritillary,Nymphalidae,LC,,LC,,,,Western Palearctic
+Euphydryas aurinia,Marsh Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Euphydryas cynthia,Cynthia's Fritillary,Nymphalidae,LC,,LC,,Yes,,Europe
+Euphydryas iduna,Lapland Fritillary,Nymphalidae,EN," A2c; B2ab(ii,iii,iv,v)c(iv)",EN," A2c; B2ab(ii,iii,iv,v)c(iv)",,,Palearctic
+Euphydryas maturna,Scarce Fritillary,Nymphalidae,VU, A2c,VU, A2c,,,Palearctic
+Euphydryas intermedia,Asian Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Melitaea trivia,Lesser Spotted Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Melitaea didyma,Spotted Fritillary,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melitaea arduinna,Freyer's Fritillary,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melitaea aetherie,Aetherie Fritillary,Nymphalidae,EN," B2ab(iii,iv)",EN," B2ab(iii,iv)",,,Western Palearctic
+Melitaea phoebe,Knapweed Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Melitaea ornata,Eastern Knapweed Fritillary,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melitaea cinxia,Glanville Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Melitaea diamina,False Heath Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Melitaea celadussa,Southern Heath Fritillary,Nymphalidae,LC,,LC,,Yes,,Europe
+Melitaea deione,Provençal Fritillary,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melitaea britomartis,Assmann's Fritillary,Nymphalidae,NT," B2b(iii,v)",NT," B2b(iii,v)",,,Palearctic
+Melitaea athalia,Heath Fritillary,Nymphalidae,LC,,LC,,,,Palearctic
+Melitaea varia,Grisons Fritillary,Nymphalidae,LC,,LC,,Yes,,Europe
+Melitaea parthenoides,Meadow Fritillary,Nymphalidae,LC,,LC,,Yes,,Europe
+Melitaea aurelia,Nickerl's Fritillary,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melitaea asteria,Little Fritillary,Nymphalidae,EN," B2ab(i,ii,iv)c(iv)",EN," B2ab(i,ii,iv)c(iv)",Yes,,Europe
+Libythea celtis,Nettle-tree Butterfly,Nymphalidae,LC,,LC,,,,Western Palearctic
+Danaus plexippus,Monarch,Nymphalidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Danaus chrysippus,Plain Tiger,Nymphalidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Charaxes jasius,Two-tailed Pasha,Nymphalidae,LC,,LC,,,,Range extends outside the Palaearctic and Holarctic
+Coenonympha phryne,Pallas' Heath,Nymphalidae,CR, B1ab(v),,,,,Western Palearctic
+Coenonympha oedippus,False Ringlet,Nymphalidae,NT," B2ab(iii,v)",NT," B2ab(iii,v)",,,Palearctic
+Coenonympha dorus,Dusky Heath,Nymphalidae,LC,,LC,,,,Western Palearctic
+Coenonympha thyrsis,Cretan Small Heath,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Coenonympha pamphilus,Small Heath,Nymphalidae,LC,,LC,,,,Western Palearctic
+Coenonympha tullia,Large Heath,Nymphalidae,EN, A2b,VU, A2c,,,Holarctic
+Coenonympha rhodopensis,Eastern Large Heath,Nymphalidae,LC , ,LC,,Yes,,Europe
+Coenonympha amaryllis,Mustang Heath,Nymphalidae,NA,,,,,,Palearctic
+Coenonympha glycerion,Chestnut Heath,Nymphalidae,LC,,LC,,,,Palearctic
+Coenonympha corinna,Corsican Heath,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Coenonympha leander,Russian Heath,Nymphalidae,LC,,LC,,,,Western Palearctic
+Coenonympha hero,Scarce Heath,Nymphalidae,LC , ,LC , ,,,Palearctic
+Coenonympha gardetta,Alpine Heath,Nymphalidae,LC,,LC,,Yes,,Europe
+Coenonympha orientalis,Balkan Heath,Nymphalidae,NT," B2b(iii,v)",NT," B2b(iii,v)",Yes,,Europe
+Coenonympha arcania,Pearly Heath,Nymphalidae,LC,,LC,,,,Western Palearctic
+Coenonympha arcanioides,Moroccan Pearly Heath,Nymphalidae,NA,,NA,,,,Western Palearctic
+Kirinia roxelana,Lattice Brown,Nymphalidae,LC,,LC,,,,Western Palearctic
+Kirinia climene,Lesser Lattice Brown,Nymphalidae,LC,,LC,,,,Western Palearctic
+Lopinga achine,Woodland Brown,Nymphalidae,NT, A2c,NT, A2c,,,Palearctic
+Pararge xiphia,Madeiran Speckled Wood,Nymphalidae,NT, B1b(v)+B2b(v),NT, B1b(v)+B2b(v),Yes,Yes,Europe
+Pararge xiphioides,Canary Speckled Wood,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Pararge aegeria,Speckled Wood,Nymphalidae,LC,,LC,,,,Western Palearctic
+Lasiommata maera,Large Wall Brown,Nymphalidae,LC,,LC,,,,Western Palearctic
+Lasiommata deidamia, ,Nymphalidae,NA,,,,,,Palearctic
+Lasiommata petropolitana,Northern Wall Brown,Nymphalidae,LC,,NT, A2c,,,Palearctic
+Lasiommata paramegaera,Corsican Wall Brown,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Lasiommata megera,Wall ,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melanargia russiae,Esper's Marbled White,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melanargia larissa,Balkan Marbled White,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melanargia lachesis,Iberian Marbled White,Nymphalidae,LC,,LC,,Yes,,Europe
+Melanargia galathea,Marbled White,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melanargia ines,Spanish Marbled White,Nymphalidae,LC,,LC,,,,Western Palearctic
+Melanargia arge,Italian Marbled White,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Melanargia pherusa,Sicilian Marbled White,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Melanargia occitanica,Western Marbled White,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hipparchia fatua,Freyer's Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hipparchia statilinus,Tree Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hipparchia tilosi,La Palma Grayling,Nymphalidae,EN," B1ab(iii,iv)+B2ab(iii,iv)",EN," B1ab(iii,iv)+B2ab(iii,iv)",Yes,Yes,Europe
+Hipparchia bacchus,El Hierro Grayling ,Nymphalidae,VU, D2,VU, D2,Yes,Yes,Europe
+Hipparchia wyssii,Canary Grayling,Nymphalidae,NT," B2b(ii,iii,v)",NT," B2b(ii,iii,v)",Yes,Yes,Europe
+Hipparchia tamadabae,Gran Canaria Grayling,Nymphalidae,VU," B1ab(iii,iv)+B2ab(iii,iv)",VU," B1ab(iii,iv)+B2ab(iii,iv)",Yes,Yes,Europe
+Hipparchia gomera,Gomera Grayling,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Hipparchia fidia,Striped Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hipparchia neomiris,Corsican Grayling,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Hipparchia autonoe, ,Nymphalidae,LC,,,,,,Palearctic
+Hipparchia hermione,Rock Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hipparchia syriaca,Eastern Rock Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hipparchia fagi,Woodland Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hipparchia mersina,Samos Grayling,Nymphalidae,NA,,NA,,,,Western Palearctic
+Hipparchia miguelensis,Le Cerf's Grayling,Nymphalidae,NT, B1a+B2a,NT, B1a+B2a,Yes,Yes,Europe
+Hipparchia azorina,Azores Grayling,Nymphalidae,NT," B1b(iii,iv)+ B2b(iii,v) ",NT," B1b(iii,iv)+ B2b(iii,v) ",Yes,Yes,Europe
+Hipparchia senthes,Balkan Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hipparchia maderensis,Madeiran Grayling,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Hipparchia semele,Grayling,Nymphalidae,LC,,LC,,Yes,,Europe
+Hipparchia blachieri,Sicilian Grayling,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Hipparchia aristaeus,Southern Grayling,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Hipparchia volgensis,Delattin's Grayling,Nymphalidae,LC,,LC,,Yes,,Europe
+Hipparchia neapolitana,Italian Grayling,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Hipparchia leighebi,Eolian Grayling,Nymphalidae,NT, B2a  ,NT, B2a ,Yes,Yes,Europe
+Hipparchia pellucida,Lesbos Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hipparchia sbordonii,Ponza Grayling,Nymphalidae,CR," B1ab(iii,iv,v)c(iv)+ B2ab(iii,iv,v)c(iv)",CR," B1ab(iii,iv, v)c(iv)+ B2ab(iii,iv,v)c(iv)",Yes,Yes,Europe
+Hipparchia cypriensis,Cyprus Grayling,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Hipparchia cretica,Cretan Grayling,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Hipparchia christenseni,Karpathos Grayling,Nymphalidae,CR," B1ab(iii,v)",CR," B1ab(iii,v)",Yes,Yes,Europe
+Minois dryas,Dryad,Nymphalidae,LC,,LC,,,,Palearctic
+Brintesia circe,Great Banded Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Arethusana arethusa,False Grayling,Nymphalidae,LC,,LC,,,,Palearctic
+Oeneis tarpeia, ,Nymphalidae,LC,,,,,,Palearctic
+Oeneis bore,Arctic Grayling,Nymphalidae,EN," A2c; B2ab(ii,iii)",EN," A2c; B2ab(ii,iii)",,,Holarctic
+Oeneis ammon, ,Nymphalidae,NA,,,,,,Palearctic
+Oeneis melissa,Melissa Arctic,Nymphalidae,NA,,,,,,Holarctic
+Oeneis magna, ,Nymphalidae,NA,,,,,,Palearctic
+Oeneis jutta,Baltic Grayling,Nymphalidae,NT, A2c,NT, A2c,,,Holarctic
+Oeneis norna,Norse Grayling,Nymphalidae,VU," B2ab(iii,iv,v)",EN," B2ab(iii,iv,v)",,,Palearctic
+Oeneis polixenes,Polixenes Arctic,Nymphalidae,NA,,,,,,Holarctic
+Oeneis glacialis,Alpine Grayling,Nymphalidae,LC,,LC,,Yes,,Europe
+Satyrus ferula,Great Sooty Satyr,Nymphalidae,LC,,LC,,,,Palearctic
+Satyrus virbius,Crimean Sooty Satyr,Nymphalidae,LC,,,,Yes,,Europe
+Satyrus actaea,Black Satyr,Nymphalidae,LC,,LC,,Yes,,Europe
+Chazara briseis,The Hermit,Nymphalidae,LC,,LC,,,,Palearctic
+Chazara prieuri,Southern Hermit,Nymphalidae,EN," B2ab(ii,iv,v)",EN," B2ab(ii,iv,v)",,,Western Palearctic
+Chazara persephone,Russian Hermit,Nymphalidae,LC,,LC , ,,,Palearctic
+Pseudochazara geyeri,Grey Asian Grayling,Nymphalidae,EN," B1ab(iii,v)+B2ab(iii,v)",EN," B1ab(iii,v)+B2ab(iii,v)",,,Western Palearctic
+Pseudochazara graeca,Grecian Grayling,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Pseudochazara amymone,Brown's Grayling,Nymphalidae,EN," B1ab(ii,iii,iv,v)+B2ab(ii,iii,iv,v)",EN," B1ab(ii,iii,iv,v)+B2ab(ii,iii,iv,v)",Yes,,Europe
+Pseudochazara anthelea,White-banded Grayling,Nymphalidae,LC,,LC,,,,Western Palearctic
+Pseudochazara amalthea, ,Nymphalidae,NT, B2c(iv),NT, B2c(iv),Yes,,Europe
+Pseudochazara williamsi,Nevada Grayling,Nymphalidae,CR," A3c; B1ab(i,ii,iii,iv)",CR," A3c; B1ab(i,ii,iii,iv)",Yes,Yes,Europe
+Pseudochazara euxina, ,Nymphalidae,EN, B1ab(v),,,Yes,,Europe
+Pseudochazara mercurius, ,Nymphalidae,NA,,,,,,Palearctic
+Pseudochazara cingovskii,Macedonian Grayling,Nymphalidae,CR, A3c,,,Yes,,Europe
+Pseudochazara tisiphone,Dark Grayling,Nymphalidae,NT, B2a,NT, B2a,Yes,,Europe
+Pseudochazara orestes,Dils' Grayling,Nymphalidae,EN," B1ab(iii,v)+B2ab(iii,v)",EN," B1ab(iii,v)+B2ab(iii,v)",Yes,Yes,Europe
+Ypthima asterope,African Ringlet,Nymphalidae,NA,,NA,,,,Range extends outside the Palaearctic and Holarctic
+Proterebia phegea,Dalmatian Ringlet,Nymphalidae,LC,,LC,,,,Western Palearctic
+Hyponephele huebneri, ,Nymphalidae,NA,,,,,,Palearctic
+Hyponephele lycaon,Dusky Meadow Brown,Nymphalidae,LC,,LC,,,,Palearctic
+Hyponephele lupina,Oriental Meadow Brown,Nymphalidae,LC,,LC,,,,Western Palearctic
+Aphantopus hyperantus,Ringlet,Nymphalidae,LC,,LC,,,,Palearctic
+Pyronia cecilia,Southern Gatekeeper,Nymphalidae,LC,,LC,,,,Western Palearctic
+Pyronia tithonus,Gatekeeper,Nymphalidae,LC,,LC,,,,Western Palearctic
+Pyronia bathseba,Spanish Gatekeeper,Nymphalidae,LC,,LC,,,,Western Palearctic
+Maniola jurtina,Meadow Brown,Nymphalidae,LC,,LC,,,,Western Palearctic
+Maniola nurag,Sardinian Meadow Brown,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Maniola chia,Chios Meadow Brown,Nymphalidae,VU," B1ab(iii,iv,v)+B2ab(iii,iv,v)",VU," B1ab(iii,iv,v)+B2ab(iii,iv,v)",Yes,Yes,Europe
+Maniola megala,Turkish Meadow Brown,Nymphalidae,NA,,NA,,,,Western Palearctic
+Maniola cypricola,Cyprus Meadow Brown,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Maniola telmessia,Aegean Meadow Brown,Nymphalidae,LC,,LC,,,,Western Palearctic
+Maniola halicarnassus,Thomson's Meadow Brown,Nymphalidae,NT, B1a+B2a,NT, B1a+B2a ,,,Western Palearctic
+Erebia edda, ,Nymphalidae,NA,,,,,,Palearctic
+Erebia fasciata,Banded Alpine,Nymphalidae,NA,,,,,,Holarctic
+Erebia discoidalis,Red-disked Alpine,Nymphalidae,LC,,,,,,Holarctic
+Erebia rossii,Ross's Alpine,Nymphalidae,NA,,,,,,Holarctic
+Erebia cyclopius, ,Nymphalidae,NA,,,,,,Palearctic
+Erebia embla,Lapland Ringlet,Nymphalidae,VU," A2c; B2b(ii,iii,iv,v)c(iv)",VU," A2c; B2b(ii,iii,iv,v)c(iv)",,,Palearctic
+Erebia disa,Arctic Ringlet,Nymphalidae,EN," A2c; B2ab(ii,iii)",EN," A2c; B2ab(ii,iii)",,,Holarctic
+Erebia meolans,Piedmont Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia dabanensis,Four-dotted Alpine,Nymphalidae,NA,,,,,,Palearctic
+Erebia jeniseiensis, ,Nymphalidae,NA,,,,,,Palearctic
+Erebia claudina,White Speck Ringlet,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Erebia manto,Yellow-spotted Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia ottomana,Ottoman Brassy Ringlet,Nymphalidae,LC,,LC,,,,Western Palearctic
+Erebia hispania,Spanish Brassy Ringlet,Nymphalidae,NT, A3c,NT, A3c,Yes,Yes,Europe
+Erebia rondoui,Pyrenees Brassy Ringlet,Nymphalidae,NT, A3c,NT, A3c,Yes,,Europe
+Erebia callias,Colorado Alpine,Nymphalidae,NA,,NA,,,,Holarctic
+Erebia tyndarus,Swiss Brassy Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia cassioides,Common Brassy Ringlet,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Erebia nivalis,De Lesse's Brassy Ringlet,Nymphalidae,NT, B2b(v),NT, B2b(v),Yes,,Europe
+Erebia neleus, ,Nymphalidae,NT, B2a,NT, B2a,Yes,,Europe
+Erebia calcarius,Lorkovic's Brassy Ringlet,Nymphalidae,LC,,LC,,Yes,Yes,Europe
+Erebia arvernensis,Western Brassy Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia oeme,Bright-eyed Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia gorge,Silky Ringlet,Nymphalidae,LC,,NT," B2b(i,ii,iv)",Yes,,Europe
+Erebia sthennyo,False Dewy Ringlet,Nymphalidae,NT, A3c,NT, A3c,Yes,Yes,Europe
+Erebia pandrose,Dewy Ringlet,Nymphalidae,LC,,LC,,,,Western Palearctic
+Erebia eriphyle,Eriphyle Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia epistygne,Spring Ringlet,Nymphalidae,VU, A2c,VU, A2c,Yes,Yes,Europe
+Erebia euryale,Large Ringlet,Nymphalidae,LC,,LC,,,,Western Palearctic
+Erebia palarica,Chapman's Ringlet,Nymphalidae,NT, A3c,NT, A3c,Yes,Yes,Europe
+Erebia ligea,Arran Brown,Nymphalidae,LC,,LC , ,,,Palearctic
+Erebia pluto,Sooty Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia aethiopellus,False Mnestra Ringlet,Nymphalidae,LC,,LC , ,Yes,Yes,Europe
+Erebia gorgone,Gavarnie Ringlet,Nymphalidae,NT, A3c,NT, A3c,Yes,,Europe
+Erebia rhodopensis,Nicholl's Ringlet,Nymphalidae,NT, B2a,NT, B2a,Yes,,Europe
+Erebia mnestra,Mnestra's Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia albergana,Almond-eyed Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia sudetica,Sudeten Ringlet,Nymphalidae,EN, B2ab(ii),EN, B2ab(ii),Yes,,Europe
+Erebia melampus,Lesser Mountain Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia triarius,de Prunner's Ringlet,Nymphalidae,NT, A2c,NT, A2c,Yes,,Europe
+Erebia polaris,Arctic Woodland Ringlet,Nymphalidae,LC,,LC,,,,Western Palearctic
+Erebia medusa,Woodland Ringlet,Nymphalidae,LC,,LC,,,,Palearctic
+Erebia aethiops,Scotch Argus,Nymphalidae,LC,,LC,,,,Western Palearctic
+Erebia pharte,Blind Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia christi,Rätzer's Ringlet,Nymphalidae,NT, B2a ,NT, B2a,Yes,,Europe
+Erebia orientalis,Bulgarian Ringlet,Nymphalidae,NT, B2a,NT, B2a,Yes,,Europe
+Erebia epiphron,Mountain Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia flavofasciata,Yellow-banded Ringlet,Nymphalidae,EN, B1ab(iii)+B2ab(iii),EN, B1ab(iii)+B2ab(iii),Yes,,Europe
+Erebia montana,Marbled Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia styx,Stygian Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia stiria,Styrian Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia scipio,Larche Ringlet,Nymphalidae,VU, A2c,VU, A2c,Yes,Yes,Europe
+Erebia pronoe,Water Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
+Erebia melas,Black Ringlet,Nymphalidae,NT," B2b(iii,iv)",NT," B2b(iii,iv)",Yes,,Europe
+Erebia lefebvrei,Lefèbvre's Ringlet,Nymphalidae,NT, A3c,NT, A3c,Yes,,Europe
+Erebia zapateri,Zapater's Ringlet,Nymphalidae,NT, A3c,NT, A3c,Yes,Yes,Europe
+Erebia neoridas,Autumn Ringlet,Nymphalidae,LC,,LC,,Yes,,Europe
